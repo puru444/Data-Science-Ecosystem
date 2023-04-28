@@ -29,7 +29,10 @@ In this notebook, Data Science Tools and Ecosystem are summarized.
     <li>TensorFlow</li>
 </ol>
 
-<img width="1358" alt="image" src="https://user-images.githubusercontent.com/86034323/235243374-93e68c82-36d2-4764-bcd5-df927895e0d8.png">
+<b>C. Data Science Tools:</b>
+
+<img width="1351" alt="image" src="https://user-images.githubusercontent.com/86034323/235243676-a7b082ee-76fe-46af-b633-140f7ac165d4.png">
+
 
 
 <h2>Author:</h2>
